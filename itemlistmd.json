@@ -1,0 +1,98 @@
+[
+    {   
+        "tag":"10% SALE",
+        "title": "매거진F No.21 Ramyun", 
+        "subtitle":"13,500원",
+        "price":"15,000원",
+        "url": "images/md-itemlist1.jpg",
+        "hoverurl": "images/md-itemlisthover1.jpg"
+    },
+    {
+        "tag":"10% SALE",
+        "title": "매거진F No.20 Tools", 
+        "subtitle":"13,500원",
+        "price":"15,000원",
+        "url": "images/md-itemlist2.jpg",
+        "hoverurl": "images/md-itemlisthover2.jpg"
+    },
+    {
+        "tag":"10% SALE",
+        "title": "매거진F No.19 Whisky", 
+        "subtitle":"13,500원",
+        "price":"15,000원",
+        "url": "images/md-itemlist3.png",
+        "hoverurl": "images/md-itemlisthover3.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 스탠드그립 6종", 
+        "subtitle":"8,000원",
+        "price":"",
+        "url": "images/md-itemlist4.gif",
+        "hoverurl": "images/md-itemlisthover4.png"
+    },
+    {
+        "tag":"BEST",
+        "title": "배달이친구들 팝업카드 2종", 
+        "subtitle":"4,000원",
+        "price":"",
+        "url": "images/md-itemlist5.gif",
+        "hoverurl": "images/md-itemlisthover5.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 케이블타이 2종", 
+        "subtitle":"4,000원",
+        "price":"",
+        "url": "images/md-itemlist6.gif",
+        "hoverurl": "images/md-itemlisthover6.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 손바닥양면노트 2종", 
+        "subtitle":"2,000원",
+        "price":"",
+        "url": "images/md-itemlist7.gif",
+        "hoverurl": "images/md-itemlisthover7.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 대문짝얼굴노트 4종", 
+        "subtitle":"3,000원",
+        "price":"",
+        "url": "images/md-itemlist8.gif",
+        "hoverurl": "images/md-itemlisthover8.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 지금뭐해 피규어. 감자의 수확하는 계절", 
+        "subtitle":"3,500원",
+        "price":"",
+        "url": "images/md-itemlist9.png",
+        "hoverurl": "images/md-itemlisthover9.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 지금뭐해 피규어. 왕의 언박싱 타임", 
+        "subtitle":"3,500원",
+        "price":"",
+        "url": "images/md-itemlist10.png",
+        "hoverurl": "images/md-itemlisthover10.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 지금뭐해 피규어. 봉다리의 달리는 아침", 
+        "subtitle":"3,500원",
+        "price":"",
+        "url": "images/md-itemlist11.png",
+        "hoverurl": "images/md-itemlisthover11.png"
+    },
+    {
+        "tag":"",
+        "title": "배달이친구들 지금뭐해 피규어. 메이의 감미로운 오후", 
+        "subtitle":"3,500원",
+        "price":"", 
+        "url": "images/md-itemlist12.png",
+        "hoverurl": "images/md-itemlisthover12.png"
+    }
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"tag":"",
+		"subtag":"",
+		"title":"을지로에서 만든 뱃지. 사장",
+		"price":"",
+		"subtitle":"5,500원",
+		"url":"images/swiper1.png",
+		"hoverurl":"images/swiperhover1.png"
+	},
+	{
+		"tag":"",
+		"subtag":"",
+		"title":"화학표백을 하지 않은 재생지로 만든 메모잇",
+		"price":"",
+		"subtitle":"2,300원",
+		"url":"images/swiper2.png",
+		"hoverurl":"images/swiperhover2.png"
+	},
+	{
+		"tag":"BEST",
+		"subtag":"10% SALE",
+		"title":"양말세트. ㅋㅋ안 보이는 양말",
+		"price":"20,000원",
+		"subtitle":"19,000원",
+		"url":"images/itemlistbottom2.jpg",
+		"hoverurl":"images/itemlistbottomhover2.png"
+	},
+	{
+		"tag":"",
+		"subtag":"",
+		"title":"크로스에코백. 난 너의 든든한 빽 ",
+		"price":"",
+		"subtitle":"17,000원",
+		"url":"images/swipertop1.png",
+		"hoverurl":"images/swipertophover.png"
+	},
+	{
+		"tag":"",
+		"subtag":"",
+		"title":"스탠드그립. 캬",
+		"price":"",
+		"subtitle":"8,900원",
+		"url":"images/swiper5.png",
+		"hoverurl":"images/swiperhover5.png"
+	},
+	{
+		"tag":"",
+		"subtag":"",
+		"title":"뱃지. 치킨",
+		"price":"",
+		"subtitle":"5,500원",
+		"url":"images/itemlist1.png",
+		"hoverurl":"images/itemlisthover1.png"
+	}
+]

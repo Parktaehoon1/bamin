@@ -1,0 +1,38 @@
+[
+    {   
+        "tag":"5% SALE",
+        "subtag":"",
+        "title": "매거진F No.21 Ramyun", 
+        "subtitle":"26,000원",
+        "price":"27,500원",
+        "url": "images/itemlistbottom1.png",
+        "hoverurl": "images/itemlistbottomhover1.png"
+    },
+    {
+        "tag":"5% SALE",
+        "subtag":"BEST",
+        "title": "매거진F No.20 Tools", 
+        "subtitle":"19,000원",
+        "price":"20,000원",
+        "url": "images/itemlistbottom1.png",
+        "hoverurl": "images/itemlistbottomhover1.png"
+    },
+    {
+        "tag":"5% SALE",
+        "subtag":"",
+        "title": "매거진F No.19 Whisky", 
+        "subtitle":"26,000원",
+        "price":"27,500원",
+        "url": "images/itemlistbottom3.png",
+        "hoverurl": "images/itemlistbottomhover3.png"
+        },
+    {
+        "tag":"",
+        "subtag":"",
+        "title": "배달이친구들 스탠드그립 6종", 
+        "subtitle":"SOLD OUT",
+        "price":"",
+        "url": "images/itemlistbottom4.png",
+        "hoverurl": "images/itemlistbottomhover4.png"
+    }
+]
